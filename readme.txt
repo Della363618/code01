@@ -6,3 +6,5 @@
 // start to learn command 
 //first 
 //second
+1
+d

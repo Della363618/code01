@@ -2,6 +2,7 @@
 //git commit
 //hello
 //world
+//git try 
 // start to learn command 
 //first 
 //second
